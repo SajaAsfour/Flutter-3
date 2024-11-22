@@ -69,27 +69,6 @@ Welcome to the **Login Page App**, a simple and stylish Flutter app showcasing b
 
 ---
 
-## 📸 Screenshots
-
-### 🖥️ Login Screen  
-_(Add a screenshot of the login UI)_
-
-### 🎉 Successful Login  
-_(Add a screenshot of the "Welcome" message)_
-
-### ❌ Failed Login  
-_(Add a screenshot of the "Error" message)_
-
----
-
-## 🚀 Future Enhancements
-
-- 🔗 Connect to a backend for real authentication.
-- 🎨 Improve UI with animations and error hints.
-- 🔐 Add email and password validation.
-
----
-
 ## ✍️ Author
 
 👩‍💻 **Saja Nazih Asfour**  
